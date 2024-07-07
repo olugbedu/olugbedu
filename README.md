@@ -1,12 +1,12 @@
 # 💫About Me :
-👋 Hi, I’m @ Adedeji Olugbedu
-👀 I’m interested in DevOps and Cloud Engineering
-🌱 I’m currently learning Docker
-💞️ I’m looking to collaborate on DevOps and Cloud Engineering projects
-📫 How to reach me adedejiolugbedu@gmail.com or https://www.linkedin.com/in/adedejiolugbedu/
-😄 Pronouns: He/Him
-⚡ Fun fact: I love reading personal development books 📕 in my free time
-🗣 I'm also a professional speaker
+- 👋 Hi, I’m @ Adedeji Olugbedu
+- 👀 I’m interested in DevOps and Cloud Engineering
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking to collaborate on DevOps and Cloud Engineering projects
+- 📫 How to reach me adedejiolugbedu@gmail.com or https://www.linkedin.com/in/adedejiolugbedu/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love reading personal development books 📕 in my free time
+- 🗣 I'm also a professional speaker
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/olugbedu.adedeji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adedejiolugbedu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adedejiolugbedu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25493580) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dejiolugbedu) 
