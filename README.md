@@ -1,5 +1,5 @@
 # 💫About Me :
-- 👋 Hi, I’m @ Adedeji Olugbedu
+- 👋 Hi, I’m Adedeji Olugbedu
 - 👀 I’m interested in DevOps and Cloud Engineering
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on DevOps and Cloud Engineering projects
