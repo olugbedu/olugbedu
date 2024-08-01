@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on DevOps and Cloud Engineering projects
 - 📫 How to reach me adedejiolugbedu@gmail.com or https://www.linkedin.com/in/adedejiolugbedu/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love understanding things rather than just knowing them
+- ⚡ Fun fact: I love understanding concepts rather than just knowing them
 - 🗣 I'm also a professional speaker
 
 ## 🌐Socials
