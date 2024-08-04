@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">I'm a passionate DevOps and Cloud Engineer ☁ from Lagos, Nigeria</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👯 I’m looking to collaborate on **automation pipeline projects**
 
