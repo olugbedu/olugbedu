@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Deji</h1>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+There+👋..;..I'm+Deji..;..This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 <h3 align="center">A passionate DevOps and Cloud Engineer ☁ from Lagos, Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/dejiolugbedu" target="blank"><img src="https://img.shields.io/twitter/follow/dejiolugbedu?logo=twitter&style=for-the-badge" alt="dejiolugbedu" /></a> </p>
@@ -35,3 +39,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olugbedu&" alt="olugbedu" /></p>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=olugbedu&icon=0&color=0)](https://visitcount.itsvg.in)
