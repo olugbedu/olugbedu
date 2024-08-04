@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **automation pipeline projects**
 
-- 💬 Ask me about **Python (FastAPI), CI/CD, Docker, Kubernetes**
+- 💬 Ask me about **Automation Pipeline**
 
 - 📫 How to reach me **adedejiolugbedu@gmail.com**
 
