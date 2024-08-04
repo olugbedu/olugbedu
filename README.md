@@ -5,8 +5,6 @@
 </div>
 <h3 align="center">I'm a passionate DevOps and Cloud Engineer ☁ from Lagos, Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/dejiolugbedu" target="blank"><img src="https://img.shields.io/twitter/follow/dejiolugbedu?logo=twitter&style=for-the-badge" alt="dejiolugbedu" /></a> </p>
-
 - 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **automation pipeline projects**
