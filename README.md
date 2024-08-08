@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adedejiolugbedu@gmail.com**
 
-- ⚡ Fun fact **I love understanding concepts rather than just knowing them**
+- ⚡ Fun fact **I love understanding concepts rather than just tools**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
