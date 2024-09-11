@@ -3,13 +3,13 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+There+👋;I'm+Deji;Welcome+to..;my+DevOps+World🌍;" alt="Typing SVG"/>
     </h1>
 </div>
-<h3 align="center">I'm a passionate DevOps and Cloud Engineer ☁ from Lagos, Nigeria</h3>
+<h3 align="center">I'm a passionate DevOps, Cloud and Platform Engineer ☁ from Lagos, Nigeria</h3>
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👯 I’m looking to collaborate on **automation pipeline projects**
+- 👯 I’m looking to collaborate on **CI/CD projects**
 
-- 💬 Ask me about **Automation Pipeline**
+- 💬 Ask me about **IDP**
 
 - 📫 How to reach me **adedejiolugbedu@gmail.com**
 
