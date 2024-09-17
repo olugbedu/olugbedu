@@ -35,8 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olugbedu&show_icons=true&locale=en" alt="olugbedu" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olugbedu&" alt="olugbedu" /></p>
+<p><img align="center" src="https://github-readme-streak-stas.herokuapp.com/?user=olugbedu&" alt="olugbedu" /></p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
