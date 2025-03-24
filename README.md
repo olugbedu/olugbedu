@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👯 I’m looking to collaborate on **CI/CD projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **IDP**
+- 💬 Specialized **Infrastructure Engineer**
 
 - 📫 How to reach me **adedejiolugbedu@gmail.com**
 
